@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 , Welcome...<br>
+It's Mridul Mishra aka "Code-Master-1110-PGH" here<br>
+I am currently in my college and working with programming languages .<br>
+I'm looking forward in learning advanced programming skills and contribute to the community at my end .<br>
+I'm currently learning JAVA and wanna move towards DSA .<br>
+He/Him/His<br>
+
 
 <!--
 **Code-Master-1110-PGH/Code-Master-1110-PGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
