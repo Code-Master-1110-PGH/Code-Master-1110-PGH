@@ -2,7 +2,7 @@
 It's Mridul Mishra aka "Code-Master-1110-PGH" here<br>
 I am currently in my college and working with programming languages .<br>
 I'm looking forward in learning advanced programming skills and contribute to the community at my end .<br>
-I'm currently learning JAVA and wanna move towards DSA .<br>
+I'm currently working with JAVA to do problem solving with application of DSA .<br>
 - 🔭 I’m currently working on learning programming language then projects.<br>
 - 👯 I’m looking to collaborate on advancement of science and tech in a collaborative way with programming.<br>
 - 😄 Pronouns: He/Him/His<br>
